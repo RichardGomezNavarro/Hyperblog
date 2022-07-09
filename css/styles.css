@@ -1,8 +1,12 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> master
     text-align: center;
-    font-family: "Arial";
+    font-family: "Curier";
     font-size: 16px;
     margin:0;
     padding:0;
